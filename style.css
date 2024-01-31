@@ -34,10 +34,8 @@ header {
     text-align: center;
     margin: auto 2rem;
 }
-#myname {
-    margin-left: -10%;
-    padding-left: -10%;
-    padding-right: 10%;
+#myname {   
+    padding-right: 15%;
 }
 
 section {
