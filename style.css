@@ -16,7 +16,7 @@ h1 {
 
 h2 {
     font-size: 1.5rem;
-    padding-bottom: 1em;
+    padding-bottom: 0.1em;
 }
 h5 {
     font-size: 0.8rem;
@@ -43,7 +43,7 @@ header {
 }
 
 section {
-    margin: auto 1rem 4rem 2rem;
+    margin: auto 1rem 3rem 2rem;
 }
 
 p {
